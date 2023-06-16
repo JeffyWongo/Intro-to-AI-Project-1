@@ -1,1 +1,1 @@
-# Intro-to-AI-Project-1
+# CS170 Project 1
